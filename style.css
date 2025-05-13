@@ -10,11 +10,11 @@
     color: #002e33;
 }
 .header{
-    max-width: 1024px;
-    margin: 0px auto;
+    margin: 5px auto;
     padding-top: 8px;
     padding-bottom: 8px;
     background-color: white;
+    max-width: 1024px;
     margin: 0px auto;
     z-index: 2;
     position: sticky;
